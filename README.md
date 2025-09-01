@@ -51,17 +51,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujwal-perla&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujwal-perla&theme=radical" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujwal-perla&layout=compact&theme=radical" height="160" />
-</p>
-
----
 
 ## 🏆 Achievements & Goals
 - 🚀 Joined **NASA Citizen Science projects**  
