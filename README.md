@@ -21,7 +21,7 @@
 ## 🎓 Education
 
 - **Gayatri Vidya Parishad College of Engineering (GVPCE)** – B.Tech ECE (2025 – 2029, Vizag)
-- - **Tirumala Educational Institutes** – 12th (MPC) (June 2023 – Mar 2025)  
+- **Tirumala Educational Institutes** – 12th (MPC) (June 2023 – Mar 2025)  
 - **Bhashyam School** – 10th Standard (June 2021 – May 2023)  
 ---
 
